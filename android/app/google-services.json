@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172301341605",
+    "firebase_url": "https://soccer-26ab6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "soccer-26ab6",
+    "storage_bucket": "soccer-26ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172301341605:android:644251c3deb0780f6d4e4c",
+        "android_client_info": {
+          "package_name": "com.batu.terzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172301341605-f263h0pom5nuq2jc08actvn4mdo4hr2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgP7CxFJvUJdlAsn35EQE_A49lsY847CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172301341605-f263h0pom5nuq2jc08actvn4mdo4hr2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
